@@ -1,9 +1,6 @@
-![Nodes](https://github.com/harshavardhanSDE/NLP-Language-Modelling/raw/main/nodes.png)
+                                            ![Nodes](https://github.com/harshavardhanSDE/NLP-Language-Modelling/raw/main/nodes.png)
 # NLP-Language-Modelling
-  Resources for Natural Language processing.
-
-> Notion page for my personal notes: [Natural Language Processing: Language Modelling.](https://promanagementsystem.notion.site/Natural-Language-Processing-Language-Modelling-a935c6110b7c4b91ad94bd2b755f12d5)
-
+Resources for Natural Language processing.
 Books:
 - [ ] [Applied Natural Language Processing with Python_ Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing](https://github.com/harshavardhanSDE/NLP-Language-Modelling/blob/main/Applied%20Natural%20Language%20Processing%20with%20Python_%20Implementing%20Machine%20Learning%20and%20Deep%20Learning%20Algorithms%20for%20Natural%20Language%20Processing.pdf)
 
