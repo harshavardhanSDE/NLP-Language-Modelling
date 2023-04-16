@@ -1,5 +1,5 @@
 ![Nodes](https://github.com/harshavardhanSDE/NLP-Language-Modelling/raw/main/nodes.png)
-# NLP-Language-Modelling
+# _NLP
 Resources for Natural Language processing. <br>
 Books:
 - [ ] [Applied Natural Language Processing with Python_ Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing](https://github.com/harshavardhanSDE/NLP-Language-Modelling/blob/main/Applied%20Natural%20Language%20Processing%20with%20Python_%20Implementing%20Machine%20Learning%20and%20Deep%20Learning%20Algorithms%20for%20Natural%20Language%20Processing.pdf)
