@@ -1,4 +1,4 @@
--------------------------------------------- ![Nodes](https://github.com/harshavardhanSDE/NLP-Language-Modelling/raw/main/nodes.png)
+![Nodes](https://github.com/harshavardhanSDE/NLP-Language-Modelling/raw/main/nodes.png)
 # NLP-Language-Modelling
 Resources for Natural Language processing. <br>
 Books:
